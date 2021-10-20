@@ -24,3 +24,14 @@ Dokumentasi Pembelajaran Tahap Data Previewing, Data Cleansing, dan Data Quality
 5. Menampilkan informasi statistik
 6. Mengatasi Missing Values
 7. Normalisasi Data
+
+## [Notebook 3H - Data Quality](https://github.com/dikoharyadhanto/Data-Preparation-Documentation/blob/e55a8a57fe2dd537ee6bd0208fb862d55a96e1c5/Data_Quality_with_Python.ipynb)
+
+**Content:**
+
+1. Maximum, Minimum, Mean, Medium, Modus dan Standard Deviasi
+2. Quantile Statistics
+3. Korelasi
+4. Missing Values
+5. Outliers
+6. Deduplikasi

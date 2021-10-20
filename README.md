@@ -14,3 +14,13 @@ Dokumentasi Pembelajaran Tahap Data Previewing, Data Cleansing, dan Data Quality
 6. Data Normalization
 7. Binning
 8. Indicator Variable (or Dummy Variable)
+
+## [Notebook 2H - Data Wrangling](https://github.com/dikoharyadhanto/Data-Preparation-Documentation/blob/884119f644439beeaf5a715f6e35b63dd4d12e01/Data_Wrangling_With_Python.ipynb)
+
+**Content:**
+
+1. Membaca File
+2. Mengakses Data Dalam Dataframe
+5. Menampilkan informasi statistik
+6. Mengatasi Missing Values
+7. Normalisasi Data

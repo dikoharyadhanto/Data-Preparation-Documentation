@@ -25,7 +25,7 @@ Dokumentasi Pembelajaran Tahap Data Previewing, Data Cleansing, dan Data Quality
 6. Mengatasi Missing Values
 7. Normalisasi Data
 
-## [Notebook 3H - Data Quality](https://github.com/dikoharyadhanto/Data-Preparation-Documentation/blob/e55a8a57fe2dd537ee6bd0208fb862d55a96e1c5/Data_Quality_with_Python.ipynb)
+## [Notebook 3H - Data Quality](https://github.com/dikoharyadhanto/Data-Preparation-Documentation/blob/fe97f38af9483507e0f38328a92e274676c9e76f/Data_Quality_with_Python_for_Beginner.ipynb)
 
 **Content:**
 
